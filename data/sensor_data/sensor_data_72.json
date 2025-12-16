@@ -1,0 +1,5 @@
+{"timestamp": "2025-01-12T08:35:03Z", "device_id": "sensor-energy-010", "building": "B", "floor": 1, "type": "energy_consumption", "value": 140.0, "unit": "kWh"}
+{"timestamp": "2025-01-12T08:35:06Z", "device_id": "sensor-co2-020", "building": "B", "floor": 1, "type": "co2", "value": 1156, "unit": "ppm"}
+{"timestamp": "2025-01-12T08:35:07Z", "device_id": "sensor-co2-020", "building": "A", "floor": 2, "type": "co2", "value": 1024, "unit": "ppm"}
+{"timestamp": "2025-01-12T08:35:08Z", "device_id": "sensor-co2-020", "building": "B", "floor": 1, "type": "co2", "value": 458, "unit": "ppm"}
+{"timestamp": "2025-01-12T08:35:12Z", "device_id": "sensor-co2-020", "building": "B", "floor": 1, "type": "co2", "value": 1199, "unit": "ppm"}

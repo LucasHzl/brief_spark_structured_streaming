@@ -1,0 +1,5 @@
+{"timestamp": "2025-01-12T08:36:19Z", "device_id": "sensor-co2-020", "building": "A", "floor": 1, "type": "co2", "value": 472, "unit": "ppm"}
+{"timestamp": "2025-01-12T08:36:23Z", "device_id": "sensor-temp-001", "building": "B", "floor": 1, "type": "temperature", "value": 21.9, "unit": "°C"}
+{"timestamp": "2025-01-12T08:36:28Z", "device_id": "sensor-co2-020", "building": "A", "floor": 3, "type": "co2", "value": 1031, "unit": "ppm"}
+{"timestamp": "2025-01-12T08:36:33Z", "device_id": "sensor-temp-003", "building": "B", "floor": 1, "type": "temperature", "value": 27.2, "unit": "°C"}
+{"timestamp": "2025-01-12T08:36:34Z", "device_id": "sensor-temp-001", "building": "B", "floor": 3, "type": "temperature", "value": 24.1, "unit": "°C"}

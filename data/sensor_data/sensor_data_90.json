@@ -1,0 +1,5 @@
+{"timestamp": "2025-01-12T08:39:24Z", "device_id": "sensor-hum-002", "building": "A", "floor": 3, "type": "humidity", "value": 55.8, "unit": "%"}
+{"timestamp": "2025-01-12T08:39:27Z", "device_id": "sensor-co2-020", "building": "A", "floor": 2, "type": "co2", "value": 700, "unit": "ppm"}
+{"timestamp": "2025-01-12T08:39:29Z", "device_id": "sensor-hum-002", "building": "A", "floor": 3, "type": "humidity", "value": 55.8, "unit": "%"}
+{"timestamp": "2025-01-12T08:39:31Z", "device_id": "sensor-energy-010", "building": "A", "floor": 2, "type": "energy_consumption", "value": 146.9, "unit": "kWh"}
+{"timestamp": "2025-01-12T08:39:35Z", "device_id": "sensor-hum-002", "building": "A", "floor": 3, "type": "humidity", "value": 50.1, "unit": "%"}
