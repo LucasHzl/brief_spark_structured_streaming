@@ -19,7 +19,7 @@ p = Producer({"bootstrap.servers": BOOTSTRAP})
 def delivery_report(err, msg):
     if err is not None:
         print(f"❌ Delivery failed: {err}")
-    # else: print(f"✅ Sent to {msg.topic()} [{msg.partition()}] @ offset {msg.offset()}")
+    else: print(f"✅ Sent to {msg.topic()} [{msg.partition()}] @ offset {msg.offset()}")
 
 while True:
     dev, bld, flr, typ, unit, (lo, hi) = random.choice(devices)
